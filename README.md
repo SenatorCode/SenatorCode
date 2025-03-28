@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Senator's Code</h1>
-<h3 align="center">A passionate Full Stack Developer & Future AI Engineer</h3>
+<h3 align="center">A passionate Full Stack Developer & Future AI and ML Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SenatorCode&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me:
-- 💻 Currently learning **Full Stack Development & AI**
+- 💻 Currently learning **Full Stack Development**
 - 🎯 Goal: Become an **AI & Machine Learning Engineer**
 - 📚 Learning: **JavaScript, Node.js, The Odin Project**
 - 🔍 Interested in **Islamic history, tech, and physics**
