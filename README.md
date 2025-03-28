@@ -11,7 +11,7 @@
 - 💻 Currently learning **Full Stack Development**
 - 🎯 Goal: Become an **AI & Machine Learning Engineer**
 - 📚 Learning: **JavaScript, Node.js, The Odin Project**
-- 🔍 Interested in **Islamic history, tech, and physics**
+- 🔍 Interested in **Islamic history, tech, maths and physics**
 - 💡 Fun Fact: **I love coding but I’m also into cooking!** 🍲
 
 ---
