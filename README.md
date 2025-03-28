@@ -26,5 +26,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SenatorCode&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=your-username)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SenatorCode)
+
 
