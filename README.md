@@ -10,9 +10,9 @@
 ## 🚀 About Me:
 - 💻 Currently learning **Full Stack Development**
 - 🎯 Goal: Become an **AI & Machine Learning Engineer**
-- 📚 Learning: **JavaScript, Node.js, The Odin Project**
+- 📚 Learning: **JavaScript, Node.js. The resources I use for learning are Udemy courses,The Odin Project, Freecode camp, Scrimba, YouTube videos, MDN documentations and many more**
 - 🔍 Interested in **Islamic history, tech, maths and physics**
-- 💡 Fun Fact: **I love coding but I’m also into cooking!** 🍲
+- 💡 Fun Fact: **I love coding but I love sport cars and I’m also into cooking!** 🍲
 
 ---
 
