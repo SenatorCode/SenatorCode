@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Senator's Code</h1>
+<h1 align="center">Hi 👋, I'm Senator's Code</h1>
 <h3 align="center">A passionate Full Stack Developer & Future AI and ML Engineer</h3>
 
 <p align="center">
